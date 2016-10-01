@@ -1,5 +1,5 @@
 # Checkmate
-A chess game developed by using Java(J2EE) and JAVA Swing API. 
+A chess game using Java(J2EE) and JAVA Swing API. 
 
 ## Features
 1. Programmed based Object Oriented Programming fully
