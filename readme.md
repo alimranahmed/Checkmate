@@ -40,5 +40,18 @@ Each of the above attribute has their needed getter or setter method.
 
 9. **King**: Same methods and constructors as pawn but this class construct King.
 
+## Screenshots
+#### Initial setup
+![chess_default](https://cloud.githubusercontent.com/assets/7629427/22406330/d3ddf766-e67b-11e6-99dd-55366ecc50ab.png)
+
+#### Board can be reversed
+![chess_reverse](https://cloud.githubusercontent.com/assets/7629427/22406333/d3e1ec5e-e67b-11e6-803d-b5b4bc26c63f.png)
+
+#### Turn
+![turn_rook](https://cloud.githubusercontent.com/assets/7629427/22406331/d3de8b7c-e67b-11e6-82ea-41ac7583a813.png)
+
+#### Color can be changed
+![chess_color_change1](https://cloud.githubusercontent.com/assets/7629427/22406329/d3db6b90-e67b-11e6-9bd4-8b8683239217.png)
+
 
 
