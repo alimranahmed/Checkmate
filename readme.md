@@ -1,6 +1,8 @@
 # Checkmate
 A chess game using Java(J2EE) and JAVA Swing API. 
 
+![chess_default](https://cloud.githubusercontent.com/assets/7629427/22406330/d3ddf766-e67b-11e6-99dd-55366ecc50ab.png)
+
 ## Features
 1. Programmed based Object Oriented Programming fully
 2. Methods and classes are very much dynamic
@@ -41,8 +43,6 @@ Each of the above attribute has their needed getter or setter method.
 9. **King**: Same methods and constructors as pawn but this class construct King.
 
 ## Screenshots
-#### Initial setup
-![chess_default](https://cloud.githubusercontent.com/assets/7629427/22406330/d3ddf766-e67b-11e6-99dd-55366ecc50ab.png)
 
 #### Board can be reversed
 ![chess_reverse](https://cloud.githubusercontent.com/assets/7629427/22406333/d3e1ec5e-e67b-11e6-803d-b5b4bc26c63f.png)
